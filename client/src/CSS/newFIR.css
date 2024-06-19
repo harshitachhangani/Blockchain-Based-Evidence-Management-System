@@ -1,0 +1,50 @@
+.reportCard
+{
+    min-height: 400px;
+    margin-top: 150px;
+    margin-right: 30px;
+}
+
+.textAreaHeight
+{
+    min-height: 270px;
+    border: 1px solid black;
+}
+
+.cardTitle
+{
+    padding: 2px;
+    margin-top: 10px;
+    margin-left: 55px;
+}
+
+.cardTitle2
+{
+    padding: 2px;
+    margin-top: 10px;
+    margin-left: 120px;
+}
+.btn-hover.color-1 {
+    background-image: linear-gradient(to right, #25aae1, #40e495, #30dd8a, #2bb673);
+    box-shadow: 0 4px 15px 0 rgba(49, 196, 190, 0.75);
+}
+
+.btn-hover {
+    width: 100px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px;
+    height: 40px;
+    text-align:center;
+    border: none;
+    background-size: 500% 200%;
+  
+    border-radius: 50px;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+  }
+  
