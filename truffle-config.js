@@ -51,4 +51,4 @@ module.exports = {
   },
   contracts_build_directory: path.join(__dirname, "client/src/contracts")
 };
-// truffle migrate --network sepolia --reset    
+// command to run contact: truffle migrate --network sepolia --reset    
