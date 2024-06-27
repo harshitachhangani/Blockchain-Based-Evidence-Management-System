@@ -26,6 +26,8 @@
 //   contracts_build_directory: path.join(__dirname, "client/src/contracts")
 // };
 
+
+
 const path = require("path");
 const HDWalletProvider = require('./client/node_modules/truffle-hdwallet-provider'); // Update to use the correct package
 
